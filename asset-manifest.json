@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e01236b7.css",
+    "main.js": "/static/js/main.c3b791fd.js",
+    "static/js/787.998b4c01.chunk.js": "/static/js/787.998b4c01.chunk.js",
+    "static/media/door-bomb.jpg": "/static/media/door-bomb.e44afb76e8583f6dc2c0.jpg",
+    "static/media/doors-open.png": "/static/media/doors-open.c10324ed3215dc6be18d.png",
+    "static/media/door-close.png": "/static/media/door-close.462a5bb4ce848d5d9828.png",
+    "static/media/saper.jpg": "/static/media/saper.e53a4617f6501343f3d4.jpg",
+    "static/media/doorsGame.jpg": "/static/media/doorsGame.a9c55c7d71f023dfbbd5.jpg",
+    "static/media/logo.png": "/static/media/logo.8541b61f1f263cf12c38.png",
+    "static/media/wheel.jpg": "/static/media/wheel.c03ec722d60207245bf5.jpg",
+    "index.html": "/index.html",
+    "main.e01236b7.css.map": "/static/css/main.e01236b7.css.map",
+    "main.c3b791fd.js.map": "/static/js/main.c3b791fd.js.map",
+    "787.998b4c01.chunk.js.map": "/static/js/787.998b4c01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e01236b7.css",
+    "static/js/main.c3b791fd.js"
+  ]
+}
